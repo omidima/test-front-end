@@ -39,6 +39,8 @@ dependencies:
   dartz: ^0.10.1
   json_serializable: ^6.6.2
   logger: ^1.4.0
+  flutter_localizations:
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:
